@@ -15,10 +15,10 @@ MonoBehaviour:
   m_GroupName: Localization-String-Tables-English (United States) (en-US)
   m_Data:
     m_SerializedData: []
-  m_GUID: 1201b60c7b8190b4890eb94acd2377e7
+  m_GUID: a1575077fd3ea614587b2762b16210c5
   m_SerializeEntries:
-  - m_GUID: 5f1e896d995c1d14381d7e75a4fef6ba
-    m_Address: UiTextTable_en-US
+  - m_GUID: ce820b1108a05054aaa07b1437a4d67b
+    m_Address: I18nKeys_en-US
     m_ReadOnly: 1
     m_SerializedLabels:
     - Locale-en-US

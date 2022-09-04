@@ -15,20 +15,15 @@ MonoBehaviour:
   m_GroupName: Localization-Locales
   m_Data:
     m_SerializedData: []
-  m_GUID: 7d62b3322811d94439c505e698c74066
+  m_GUID: 2d2c2e5110a5665448ab2b7edd69d6cc
   m_SerializeEntries:
-  - m_GUID: 47f4e250d28891a4ba5a2a09e9003062
+  - m_GUID: e86210655a7293e4c82de8d039f894d9
     m_Address: English (United States) (en-US)
     m_ReadOnly: 1
     m_SerializedLabels:
     - Locale
-  - m_GUID: d1f7d82e8de61fa459bbd7bc5f533274
+  - m_GUID: f8e6c2d121c84814d85615dc06097d40
     m_Address: Russian (Russia) (ru-RU)
-    m_ReadOnly: 1
-    m_SerializedLabels:
-    - Locale
-  - m_GUID: 3cdfd9c5c30f71446b97ef558ddf5f59
-    m_Address: Swedish (Sweden) (sv-SE)
     m_ReadOnly: 1
     m_SerializedLabels:
     - Locale

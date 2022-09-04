@@ -15,14 +15,10 @@ MonoBehaviour:
   m_GroupName: Localization-Assets-Shared
   m_Data:
     m_SerializedData: []
-  m_GUID: 1d377d4f1f85102488887d1c74f216c8
+  m_GUID: 2506d368781e15a40969656796a7a000
   m_SerializeEntries:
-  - m_GUID: 7f9c09c14c552224a94ac7ef29f214eb
-    m_Address: Assets/Generated Locales Created/UI Text Table Shared Data.asset
-    m_ReadOnly: 1
-    m_SerializedLabels: []
-  - m_GUID: a227b1ce34a8d014abd835df541bab5f
-    m_Address: Assets/UiTableText/UiTextTable Shared Data.asset
+  - m_GUID: 4fcd6b0691dda0b43bd630f2f679fd26
+    m_Address: Assets/i18n/StringTables/I18nKeys Shared Data.asset
     m_ReadOnly: 1
     m_SerializedLabels: []
   m_ReadOnly: 1
